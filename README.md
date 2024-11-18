@@ -30,7 +30,7 @@ This Python code demonstrates a recommendation system using three different tech
 ## Results
 | Model                                    | MAP (%) |
 |------------------------------------------|---------|
-| Closeness Centrality with Jaccard similarity | 69.46   |
+| Closeness Centrality with Jaccard similarity | 68.50   |
 | Closeness Centrality Alone               | 69.05   |
 | PageRank                                 | 81.24   |
 
